@@ -1,5 +1,6 @@
 # Script para los estafadores. || Enviar por Whatsapp
-<br>
+
+
 
 ### He modificado una linea que con la actualización de Whatsapp no enviaba el script y daba error.
 
