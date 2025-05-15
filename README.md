@@ -15,7 +15,7 @@ main.querySelector('button[aria-label="Enviar"]').click();
 -----------------------------------------------------------------------------------------------------
 Espero que os sirva y os dejen tranquilos
 <br>
-⚠️ #### Si Google Chrome no os deja pegar tendréis que poner "allow pasting" o "permitir pegado"
+⚠️ Si Google Chrome no os deja pegar tendréis que poner "allow pasting" o "permitir pegado"
 <br>
 -----------------------------------------------------------------------------------------------------
 ## Tutorial de como se hace.
