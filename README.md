@@ -21,10 +21,14 @@ Espero que os sirva y os dejen tranquilos
 -----------------------------------------------------------------------------------------------------
 ## Tutorial de como se hace.
 1- Abrimos la consola de Google Chrome con F12 y pulsamos en Console
-2- Copiamos el Script
-3- Pegamos, pulsamos Enter y a disfrutar.
+2- Copiamos el Script CTRL+A (Seleccionar todo) / Ctrl + C
+3- Pegamos (Ctrl + V), pulsamos Enter y a disfrutar.
 <br>
 
 > [!CAUTION]
 > ⚠️ No cambies de conversación las veces que he cambiado ha enviado el script a la otra conversación.
 
+>[!NOTE]
+>He dejado dos versiones ya que no suelen aguantar toda la conversación
+
+Versión reducida Shrek_scriptRecortado.js
