@@ -32,4 +32,5 @@ Espero que os sirva y os dejen tranquilos
 >He dejado dos versiones ya que no suelen aguantar toda la conversación
 
 Versión reducida: [Versión Reducida](https://github.com/tecxion/Shrek_Script/blob/main/Shrek_scriptRecortado.js)
+<br>
 Versión completa: [Versión Completa](https://github.com/tecxion/Shrek_Script/blob/main/scriptShrekCompleto.js)
