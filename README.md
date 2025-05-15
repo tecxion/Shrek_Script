@@ -5,17 +5,16 @@
 
 ```
 La Linea modificada es esta:
-<br>
 (main.querySelector(`[data-testid="send"]`) || main.querySelector(`[data-icon="send"]`)).click();
 
 ```
 ```
 por esta otra:
-<br>
 main.querySelector('button[aria-label="Enviar"]').click();
 ```
 -----------------------------------------------------------------------------------------------------
 Espero que os sirva y os dejen tranquilos
+<br>
 ⚠️ #### Si Google Chrome no os deja pegar tendréis que poner "allow pasting" o "permitir pegado"
 <br>
 -----------------------------------------------------------------------------------------------------
