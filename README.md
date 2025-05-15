@@ -34,3 +34,5 @@ Espero que os sirva y os dejen tranquilos
 Versión reducida: [Versión Reducida](https://github.com/tecxion/Shrek_Script/blob/main/Shrek_scriptRecortado.js)
 <br>
 Versión completa: [Versión Completa](https://github.com/tecxion/Shrek_Script/blob/main/scriptShrekCompleto.js)
+
+Idea de : https://github.com/Matt-Fontes/SendScriptWhatsApp
